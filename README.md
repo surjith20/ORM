@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 18/10/2023
+## Date: 27/09/2024
 
 ## AIM
 To develop a Django application to store and retrieve data from a Football Players database using Object Relational Mapping(ORM).
